@@ -1,6 +1,6 @@
 {
   "name": "vcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Open Visual Studio Code from cli",
   "main": "./cli.js",
   "preferGlobal": true,
