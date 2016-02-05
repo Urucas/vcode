@@ -1,0 +1,29 @@
+{
+  "name": "vcode",
+  "version": "0.0.1",
+  "description": "Open Visual Studio Code from cli",
+  "main": "./cli.js",
+  "scripts": {
+    "start": "./cli.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urucas/vcode.git"
+  },
+  "keywords": [
+    "code",
+    "electron",
+    "visual",
+    "studio"
+  ],
+  "author": "Urucas <hello@urucas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Urucas/vcode/issues"
+  },
+  "homepage": "https://github.com/Urucas/vcode#readme",
+  "dependencies": {
+    "opn": "^4.0.0"
+  }
+}
