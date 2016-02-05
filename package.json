@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Open Visual Studio Code from cli",
   "main": "./cli.js",
+  "preferGlobal": true",
+  "bin" : {
+    "code" : "./cli.js"
+  },
   "scripts": {
     "start": "./cli.js",
     "test": "node test.js"
